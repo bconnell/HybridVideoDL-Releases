@@ -11,7 +11,7 @@
     "portablePackage":  {
                             "packageType":  "portable-win-x64",
                             "fileName":  "HybridVideoDL_v1.0.1_portable_win-x64.zip",
-                            "downloadUrl":  "https://raw.githubusercontent.com/bconnell/HybridVideoDL-Releases/main/artifacts/HybridVideoDL_v1.0.1_portable_win-x64.zip",
+                            "downloadUrl":  "https://github.com/bconnell/HybridVideoDL-Releases/releases/download/v1.0.1/HybridVideoDL_v1.0.1_portable_win-x64.zip",
                             "sha256":  "2C270C7C6C0D79B162FDD4A5FF45830656629EA43C154CD17FC34C428FE8F7A6",
                             "sizeBytes":  94919169
                         }

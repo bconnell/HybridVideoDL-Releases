@@ -1,3 +1,10 @@
-﻿.DS_Store
+.DS_Store
 Thumbs.db
 Desktop.ini
+
+# Release payloads belong on GitHub Releases, not in the tracked repo tree.
+/artifacts/
+/*.zip
+/*.7z
+/*.msi
+/*.exe
