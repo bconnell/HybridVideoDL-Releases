@@ -28,6 +28,4 @@ Some features require user-supplied third-party tools. Downloads need `yt-dlp`, 
 
 ## Project information
 
-For project information and source repository details, visit:
-
-https://github.com/bconnell/HybridVideoDL
+No additional information.
