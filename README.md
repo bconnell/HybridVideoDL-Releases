@@ -22,9 +22,3 @@ HybridVideoDL is a Windows desktop downloader built around `yt-dlp`, with queue 
 ## Checksum
 
 [SHA-256 checksum](https://github.com/bconnell/HybridVideoDL-Releases/blob/main/checksums/HybridVideoDL_v1.0.0_SHA256.txt)
-
-## Project information
-
-For project and source information, visit the main HybridVideoDL repository:
-
-https://github.com/bconnell/HybridVideoDL
