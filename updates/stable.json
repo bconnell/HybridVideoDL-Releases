@@ -1,0 +1,18 @@
+﻿{
+    "applicationId":  "HybridVideoDL",
+    "channel":  "stable",
+    "version":  "1.0.0",
+    "displayVersion":  "1.0.0",
+    "publishedUtc":  "2026-04-14T01:28:40.9899921+00:00",
+    "priority":  "normal",
+    "summary":  "HybridVideoDL 1.0.0 is available with the supported portable package, in-app help, and GitHub-based updates.",
+    "releaseNotesUrl":  "https://raw.githubusercontent.com/bconnell/HybridVideoDL-Releases/main/release-notes/v1.0.0.md",
+    "minimumSupportedVersion":  "1.0.0",
+    "portablePackage":  {
+                            "packageType":  "portable-win-x64",
+                            "fileName":  "HybridVideoDL_v1.0.0_portable_win-x64.zip",
+                            "downloadUrl":  "https://raw.githubusercontent.com/bconnell/HybridVideoDL-Releases/main/artifacts/HybridVideoDL_v1.0.0_portable_win-x64.zip",
+                            "sha256":  "462F9D297951183D16C24058E202D5A9578CCB649E856DD1801604CB142EF70C",
+                            "sizeBytes":  94922845
+                        }
+}
